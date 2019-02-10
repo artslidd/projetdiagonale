@@ -1,0 +1,5 @@
+<map id="FrequenciesManager::getPianoWidths" name="FrequenciesManager::getPianoWidths">
+<area shape="rect" id="node2" href="$class_frequencies_manager.html#a6ba2cd5ccdfcfe72baece83ece28f6fe" title="A partir de la position de la souris sur le piano, renvoie l&#39;indice de la touche survolée. " alt="" coords="199,5,394,61"/>
+<area shape="rect" id="node4" href="$class_frequencies_manager.html#ad6ef60ada1837de88a9759367e58accd" title="A partir de l&#39;index d&#39;une touche de piano, renvoie sa position à l&#39;écran sur l&#39;image du piano..." alt="" coords="196,86,397,127"/>
+<area shape="rect" id="node3" href="$class_piano.html#a1477e0fc9fca46d811cbb8a85e1a8527" title="Toggle permettant de passer du mode piano au mode image simple et inversement. " alt="" coords="445,57,577,84"/>
+</map>

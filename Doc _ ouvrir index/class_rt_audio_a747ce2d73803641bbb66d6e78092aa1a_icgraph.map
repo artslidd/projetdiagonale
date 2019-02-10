@@ -1,0 +1,6 @@
+<map id="RtAudio::getDeviceCount" name="RtAudio::getDeviceCount">
+<area shape="rect" id="node2" href="$class_rt_audio.html#a6907539d2527775df778ebce32ef1e3b" title="A public function for opening a stream with the specified parameters. " alt="" coords="225,5,372,32"/>
+<area shape="rect" id="node3" href="$class_rt_api.html#ae20a4060301413ddcddc6bf149bbf911" title="A protected function used to increment the stream time. " alt="" coords="221,56,376,83"/>
+<area shape="rect" id="node4" href="$class_external_source_module.html#aca0a223cac47d979b35ea27fa4f6e8f3" title="Liaison du module au buffer principal du programme, ainsi qu&#39;à RtAudio et au filtre actif..." alt="" coords="222,107,375,149"/>
+<area shape="rect" id="node5" href="$class_external_source_module.html#a8c6dfe94ff1d831cf7d4c895e25bf51d" title="Signale au module qu&#39;il doit se fermer et laisser totalement la main à un autre module. " alt="" coords="222,173,375,214"/>
+</map>

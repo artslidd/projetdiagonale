@@ -1,0 +1,6 @@
+<map id="MidiDialog::midiInputLearningFailed" name="MidiDialog::midiInputLearningFailed">
+<area shape="rect" id="node2" href="$class_midi_engine.html#a452969698e8ea99215a9c248602e9b82" title="Fonction à appeler pour attacher le MidiEngine à une source MIDI, si une configuration de touches est..." alt="" coords="251,5,421,32"/>
+<area shape="rect" id="node3" href="$class_midi_engine.html#a79b850d41d50bb9d96df7dec26b5d1fe" title="Passe le moteur MIDI en mode apprentissage pour le rôle fourni en paramètre. Le prochain appui sur un..." alt="" coords="261,56,411,83"/>
+<area shape="rect" id="node4" href="$class_midi_engine.html#a60413a3ef5a915d46da696a501730002" title="Fonction appelée par le callback de RtMidi chaque fois qu&#39;un contrôle est sollicité sur le périphériq..." alt="" coords="245,107,427,149"/>
+<area shape="rect" id="node5" href="$class_midi_engine.html#afb2eb8e339597330fa1453c556e07b88" title="Demande au moteur d&#39;envoyer de nouveau des midiInputEvent() jusqu&#39;à nouvel ordre. ..." alt="" coords="249,173,423,200"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="MidiEngine::selectSource" name="MidiEngine::selectSource">
+<area shape="rect" id="node2" href="$class_midi_dialog.html#a4b3434e21892e0edba9a1d2c5ea1f6ef" title="Slot gérant l&#39;échec de l&#39;apprentissage d&#39;un contrôle MIDI. " alt="" coords="224,5,416,47"/>
+<area shape="rect" id="node3" href="$class_rt_midi_error.html#a2053c81fa4756181e9ddcfad4a9bd020" title="Returns the thrown error message string. " alt="" coords="237,71,403,98"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="ExternalSourceModule::link" name="ExternalSourceModule::link">
+<area shape="rect" id="node2" href="$class_rt_audio.html#a747ce2d73803641bbb66d6e78092aa1a" title="A public function that queries for the number of audio devices available. " alt="" coords="207,5,375,32"/>
+<area shape="rect" id="node3" href="$class_rt_audio.html#a02d7ff44ad1d7eae22283a052f3dfda8" title="Return an RtAudio::DeviceInfo structure for a specified device number. " alt="" coords="213,56,369,83"/>
+</map>

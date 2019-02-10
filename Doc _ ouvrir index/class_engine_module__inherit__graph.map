@@ -1,0 +1,6 @@
+<map id="EngineModule" name="EngineModule">
+<area shape="rect" id="node3" href="$class_basic_signal_module.html" title="Le module de génération de signaux de base. Il s&#39;occupe de générer des sinus, triangles et rectangles..." alt="" coords="5,155,139,181"/>
+<area shape="rect" id="node4" href="$class_external_source_module.html" title="Le module de lecture depuis une source externe. Il se contente de lister les entrées audio disponible..." alt="" coords="163,155,317,181"/>
+<area shape="rect" id="node5" href="$class_file_module.html" title="Le module de lecture depuis un fichier. Pour le moment, la lecture est restreinte aux fichiers ..." alt="" coords="341,155,427,181"/>
+<area shape="rect" id="node6" href="$class_sampler_module.html" title="Le séquenceur. Il récupère les fichiers audios des samples et gère le stream. Il gère l&#39;interface ave..." alt="" coords="451,155,563,181"/>
+</map>

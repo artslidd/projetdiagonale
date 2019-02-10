@@ -1,0 +1,4 @@
+<map id="RtAudio::openStream" name="RtAudio::openStream">
+<area shape="rect" id="node2" href="$class_rt_audio.html#a747ce2d73803641bbb66d6e78092aa1a" title="A public function that queries for the number of audio devices available. " alt="" coords="200,5,368,32"/>
+<area shape="rect" id="node3" href="$class_rt_audio.html#a90d599002ad32cf250a4cb866f2cc93a" title="A function that closes a stream and frees any associated stream memory. " alt="" coords="209,56,359,83"/>
+</map>

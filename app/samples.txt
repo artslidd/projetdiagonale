@@ -1,0 +1,108 @@
+Nom :
+Electro
+Accords :
+Do Re Mi Fa Sol
+Instruments :
+Beat Synthe Bass
+
+Nom :
+Jazz
+Accords :
+La7 Do7 Re7 Mi7 Fa7
+Instruments :
+Batterie Cuivres Contrebasse
+
+Samples :
+
+Electro-Beat-Do-1 : Beat-1.wav
+Electro-Beat-Do-2 : Beat-2.wav
+Electro-Beat-Do-3 : Beat-3.wav
+Electro-Beat-Re-1 : Beat-1.wav
+Electro-Beat-Re-2 : Beat-2.wav
+Electro-Beat-Re-3 : Beat-3.wav
+Electro-Beat-Mi-1 : Beat-1.wav
+Electro-Beat-Mi-2 : Beat-2.wav
+Electro-Beat-Mi-3 : Beat-3.wav
+Electro-Beat-Fa-1 : Beat-1.wav
+Electro-Beat-Fa-2 : Beat-2.wav
+Electro-Beat-Fa-3 : Beat-3.wav
+Electro-Beat-Sol-1 : Beat-1.wav
+Electro-Beat-Sol-2 : Beat-2.wav
+Electro-Beat-Sol-3 : Beat-3.wav
+Electro-Synthe-Do-1 : Synthe-1-C.wav
+Electro-Synthe-Do-2 : Synthe-2-C.wav
+Electro-Synthe-Do-3 : Synthe-3-C.wav
+Electro-Synthe-Re-1 : Synthe-1-A-(base).wav
+Electro-Synthe-Re-2 : Synthe-2-A.wav
+Electro-Synthe-Re-3 : Synthe-3-A.wav
+Electro-Synthe-Mi-1 : Synthe-1-E.wav
+Electro-Synthe-Mi-2 : Synthe-2-E.wav
+Electro-Synthe-Mi-3 : Synthe-3-E-(base).wav
+Electro-Synthe-Fa-1 : Synthe-1-A-(base).wav
+Electro-Synthe-Fa-2 : Synthe-2-A.wav
+Electro-Synthe-Fa-3 : Synthe-3-A.wav
+Electro-Synthe-Sol-1 : Synthe-1-C.wav
+Electro-Synthe-Sol-2 : Synthe-2-C.wav
+Electro-Synthe-Sol-3 : Synthe-3-C.wav
+Electro-Bass-Do-1 : Bass-1-C.wav
+Electro-Bass-Do-2 : Bass-2-C-(base).wav
+Electro-Bass-Do-3 : Bass-3-C.wav
+Electro-Bass-Re-1 : Bass-1-A-(base).wav
+Electro-Bass-Re-2 : Bass-2-A.wav
+Electro-Bass-Re-3 : Bass-3-A.wav
+Electro-Bass-Mi-1 : Bass-1-E.wav
+Electro-Bass-Mi-2 : Bass-2-E.wav
+Electro-Bass-Mi-3 : Bass-3-E-(base).wav
+Electro-Bass-Fa-1 : Bass-1-C.wav
+Electro-Bass-Fa-2 : Bass-2-C-(base).wav
+Electro-Bass-Fa-3 : Bass-3-C.wav
+Electro-Bass-Sol-1 : Bass-1-A-(base).wav
+Electro-Bass-Sol-2 : Bass-2-A.wav
+Electro-Bass-Sol-3 : Bass-3-A.wav
+Jazz-Batterie-La7-1 : Jazz-Batterie-1.wav
+Jazz-Batterie-La7-2 : Jazz-Batterie-2.wav
+Jazz-Batterie-La7-3 : Jazz-Batterie-3.wav
+Jazz-Batterie-Do7-1 : Jazz-Batterie-1.wav
+Jazz-Batterie-Do7-2 : Jazz-Batterie-2.wav
+Jazz-Batterie-Do7-3 : Jazz-Batterie-3.wav
+Jazz-Batterie-Re7-1 : Jazz-Batterie-1.wav
+Jazz-Batterie-Re7-2 : Jazz-Batterie-2.wav
+Jazz-Batterie-Re7-3 : Jazz-Batterie-3.wav
+Jazz-Batterie-Mi7-1 : Jazz-Batterie-1.wav
+Jazz-Batterie-Mi7-2 : Jazz-Batterie-2.wav
+Jazz-Batterie-Mi7-3 : Jazz-Batterie-3.wav
+Jazz-Batterie-Fa7-1 : Jazz-Batterie-1.wav
+Jazz-Batterie-Fa7-2 : Jazz-Batterie-2.wav
+Jazz-Batterie-Fa7-3 : Jazz-Batterie-3.wav
+Jazz-Cuivres-La7-1 : Jazz-Brass-1-A.wav
+Jazz-Cuivres-La7-2 : Jazz-Brass-2-A.wav
+Jazz-Cuivres-La7-3 : Jazz-Brass-3-A.wav
+Jazz-Cuivres-Do7-1 : Jazz-Brass-1-C.wav
+Jazz-Cuivres-Do7-2 : Jazz-Brass-2-C.wav
+Jazz-Cuivres-Do7-3 : Jazz-Brass-3-C.wav
+Jazz-Cuivres-Re7-1 : Jazz-Brass-1-D.wav
+Jazz-Cuivres-Re7-2 : Jazz-Brass-2-D.wav
+Jazz-Cuivres-Re7-3 : Jazz-Brass-3-D.wav
+Jazz-Cuivres-Mi7-1 : Jazz-Brass-1-E.wav
+Jazz-Cuivres-Mi7-2 : Jazz-Brass-2-E.wav
+Jazz-Cuivres-Mi7-3 : Jazz-Brass-3-E.wav
+Jazz-Cuivres-Fa7-1 : Jazz-Brass-1-F-(base).wav
+Jazz-Cuivres-Fa7-2 : Jazz-Brass-2-F-(base).wav
+Jazz-Cuivres-Fa7-3 : Jazz-Brass-3-F-(base).wav
+Jazz-Contrebasse-La7-1 : Jazz-ContreBasse-1-A-(base).wav
+Jazz-Contrebasse-La7-2 : Jazz-ContreBasse-2-A.wav
+Jazz-Contrebasse-La7-3 : Jazz-ContreBasse-3-A.wav
+Jazz-Contrebasse-Do7-1 : Jazz-ContreBasse-1-C.wav
+Jazz-Contrebasse-Do7-2 : Jazz-ContreBasse-2-C-(base).wav
+Jazz-Contrebasse-Do7-3 : Jazz-ContreBasse-3-C.wav
+Jazz-Contrebasse-Re7-1 : Jazz-ContreBasse-1-D.wav
+Jazz-Contrebasse-Re7-2 : Jazz-ContreBasse-2-D.wav
+Jazz-Contrebasse-Re7-3 : Jazz-ContreBasse-3-D-(base).wav
+Jazz-Contrebasse-Mi7-1 : Jazz-ContreBasse-1-E.wav
+Jazz-Contrebasse-Mi7-2 : Jazz-ContreBasse-2-E.wav
+Jazz-Contrebasse-Mi7-3 : Jazz-ContreBasse-3-E.wav
+Jazz-Contrebasse-Fa7-1 : Jazz-ContreBasse-1-F.wav
+Jazz-Contrebasse-Fa7-2 : Jazz-ContreBasse-2-F.wav
+Jazz-Contrebasse-Fa7-3 : Jazz-ContreBasse-3-F.wav
+
+Fin 

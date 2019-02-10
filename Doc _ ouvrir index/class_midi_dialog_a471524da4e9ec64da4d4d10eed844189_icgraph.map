@@ -1,0 +1,5 @@
+<map id="MidiDialog::midiInputLearned" name="MidiDialog::midiInputLearned">
+<area shape="rect" id="node2" href="$class_midi_engine.html#a60413a3ef5a915d46da696a501730002" title="Fonction appelée par le callback de RtMidi chaque fois qu&#39;un contrôle est sollicité sur le périphériq..." alt="" coords="250,5,431,47"/>
+<area shape="rect" id="node3" href="$class_midi_engine.html#a3d63c3feee2755c034eabf772c94b05b" title="Fonction appelée par le callback de RtMidi chaque fois qu&#39;une note est sollicitée sur le périphérique..." alt="" coords="243,71,439,98"/>
+<area shape="rect" id="node4" href="$class_midi_engine.html#a61b4e848f1ec6b2b638f2513d9bbc24e" title="Demande au moteur de charger un fichier de configuration (toutes les associations actuelles seront ef..." alt="" coords="269,122,412,149"/>
+</map>

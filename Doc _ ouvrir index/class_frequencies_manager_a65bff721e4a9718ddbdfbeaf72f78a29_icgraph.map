@@ -1,0 +1,4 @@
+<map id="FrequenciesManager::getPianoBounds" name="FrequenciesManager::getPianoBounds">
+<area shape="rect" id="node2" href="$class_frequencies_manager.html#ac58df02280a9c17dd159079c7dffd1cd" title="Renvoie le numéro de la touche de piano associée à la fréquence fournie en paramètre. " alt="" coords="196,5,391,61"/>
+<area shape="rect" id="node3" href="$class_spectrum_analyser.html#acf2098188acadd86a9e7872800eae20b" title="Fonction principale de l&#39;analyseur de spectre, à ne pas appeler directement (cf. documentation Qt des..." alt="" coords="439,20,593,47"/>
+</map>

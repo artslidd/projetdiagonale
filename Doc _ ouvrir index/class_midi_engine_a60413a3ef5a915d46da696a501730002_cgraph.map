@@ -1,0 +1,4 @@
+<map id="MidiEngine::processControlInput" name="MidiEngine::processControlInput">
+<area shape="rect" id="node2" href="$class_midi_dialog.html#a4b3434e21892e0edba9a1d2c5ea1f6ef" title="Slot gérant l&#39;échec de l&#39;apprentissage d&#39;un contrôle MIDI. " alt="" coords="235,5,427,47"/>
+<area shape="rect" id="node3" href="$class_midi_dialog.html#a471524da4e9ec64da4d4d10eed844189" title="Slot gérant le fait qu&#39;un contrôle MIDI vient d&#39;être appris. " alt="" coords="236,71,425,98"/>
+</map>

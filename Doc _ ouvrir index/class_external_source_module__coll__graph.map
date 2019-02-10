@@ -1,0 +1,8 @@
+<map id="ExternalSourceModule" name="ExternalSourceModule">
+<area shape="rect" id="node2" href="$class_engine_module.html" title="Classe abstraite représentant une source audio dans le programme. Chaque classe fille doit pouvoir de..." alt="" coords="30,363,134,389"/>
+<area shape="rect" id="node4" href="$class_rt_audio.html" title="Realtime audio i/o C++ classes. " alt="" coords="108,273,176,300"/>
+<area shape="rect" id="node5" href="$class_rt_api.html" title="RtApi" alt="" coords="115,184,169,211"/>
+<area shape="rect" id="node6" href="$struct_rt_api_1_1_rt_api_stream.html" title="RtApi::RtApiStream" alt="" coords="74,95,210,121"/>
+<area shape="rect" id="node7" href="$struct_rt_api_1_1_convert_info.html" title="RtApi::ConvertInfo" alt="" coords="9,5,139,32"/>
+<area shape="rect" id="node8" href="$struct_callback_info.html" title="CallbackInfo" alt="" coords="163,5,257,32"/>
+</map>

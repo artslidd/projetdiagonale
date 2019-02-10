@@ -1,0 +1,8 @@
+<map id="ASIOCallbacks" name="ASIOCallbacks">
+<area shape="rect" id="node2" href="$struct_a_s_i_o_time.html" title="ASIOTime" alt="" coords="105,184,188,211"/>
+<area shape="rect" id="node3" href="$struct_a_s_i_o_time_code.html" title="ASIOTimeCode" alt="" coords="17,95,130,121"/>
+<area shape="rect" id="node4" href="$struct_a_s_i_o_samples.html" title="ASIOSamples" alt="" coords="18,5,123,32"/>
+<area shape="rect" id="node5" href="$struct_asio_time_info.html" title="AsioTimeInfo" alt="" coords="160,95,259,121"/>
+<area shape="rect" id="node6" href="$struct_a_s_i_o_time_stamp.html" title="ASIOTimeStamp" alt="" coords="211,5,333,32"/>
+<area shape="rect" id="node7" href="$struct_a_s_i_o_sample_rate.html" title="ASIOSampleRate" alt="" coords="357,5,483,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="RtAudio::getDefaultOutputDevice" name="RtAudio::getDefaultOutputDevice">
+<area shape="rect" id="node2" href="$class_file_module.html#a1ffbe741dd594ba0887908562a5c674b" title="Signale au module qu&#39;il doit se fermer et laisser totalement la main à un autre module. " alt="" coords="259,107,412,133"/>
+<area shape="rect" id="node8" href="$class_sampler_module.html#a8f61d69ac2e71303b15f14cfde7b54f7" title="Signale au module qu&#39;il a la main pour créer tous ses flux et commencer à jouer. " alt="" coords="228,157,443,184"/>
+<area shape="rect" id="node3" href="$class_sampler_module.html#acc35b7e2aa88e6b16e21b56b4cb7cd39" title="Charge les nouveaux samples et reset la grille quand le style est changé. " alt="" coords="505,5,673,32"/>
+<area shape="rect" id="node4" href="$class_sampler_module.html#a4b74224e8b02f95246df1f917f54e58c" title="Vide la grille. " alt="" coords="515,56,664,83"/>
+<area shape="rect" id="node5" href="$class_sampler_module.html#a06b32467403cb46c118405cdbe9d8a01" title="Lance le stream. " alt="" coords="517,107,661,133"/>
+<area shape="rect" id="node6" href="$class_sampler_module.html#af0dca569b5025e12d0404b3f2dffa4dd" title="Coupe le stream lors d&#39;un déplacement manuel du Slider et le relance après le déplacement. " alt="" coords="491,158,688,199"/>
+<area shape="rect" id="node7" href="$class_sampler_module.html#a0ccc9c0bc778aa18bed16bdd620eb8ea" title="Permet de choisir l&#39;emplacement du fichier et lance l&#39;enregistrement. " alt="" coords="494,224,685,251"/>
+</map>

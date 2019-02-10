@@ -1,0 +1,4 @@
+<map id="FrequenciesManager::getIndexInPianoFrequenciesFromFreq" name="FrequenciesManager::getIndexInPianoFrequenciesFromFreq">
+<area shape="rect" id="node2" href="$class_frequencies_manager.html#a65bff721e4a9718ddbdfbeaf72f78a29" title="Renvoie les fréquences successives encadrant les notes du piano. " alt="" coords="248,13,391,54"/>
+<area shape="rect" id="node3" href="$class_frequencies_manager.html#afe72c1701fafe76e4578087ed350a9fe" title="Renvoie les fréquences en Hz des touches successives d&#39;un piano. La constante NOTES_START_FREQUENCY d..." alt="" coords="439,13,591,54"/>
+</map>

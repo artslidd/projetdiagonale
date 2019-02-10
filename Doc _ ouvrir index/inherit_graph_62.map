@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_double_slider.html" title="Classe régissant un widget slider pouvant contenir un ou deux curseurs au choix. Le double slider est..." alt="" coords="139,31,233,57"/>
+<area shape="rect" id="node3" href="$class_engine_module.html" title="Classe abstraite représentant une source audio dans le programme. Chaque classe fille doit pouvoir de..." alt="" coords="134,81,238,108"/>
+<area shape="rect" id="node8" href="$class_filter_widget.html" title="La classe FilterWidget permet à l&#39;utilisateur de configurer le filtre quand il le souhaite..." alt="" coords="141,132,231,159"/>
+<area shape="rect" id="node9" href="$class_piano.html" title="La classe affichant le piano et gérant les clics sur ses touches. Cette classe peut selon son mode af..." alt="" coords="159,183,213,209"/>
+<area shape="rect" id="node10" href="$class_spectrum_widget.html" title="Le widget permettant l&#39;affichage du spectre du signal audio en train d&#39;être lu. Ce widget reçoit régu..." alt="" coords="127,233,245,260"/>
+<area shape="rect" id="node11" href="$class_waveform_widget.html" title="Classe d&#39;interface utilisateur s&#39;occupant de gérer la waveform en haut à droite de l&#39;écran..." alt="" coords="125,284,247,311"/>
+<area shape="rect" id="node4" href="$class_basic_signal_module.html" title="Le module de génération de signaux de base. Il s&#39;occupe de générer des sinus, triangles et rectangles..." alt="" coords="305,5,438,32"/>
+<area shape="rect" id="node5" href="$class_external_source_module.html" title="Le module de lecture depuis une source externe. Il se contente de lister les entrées audio disponible..." alt="" coords="295,56,448,83"/>
+<area shape="rect" id="node6" href="$class_file_module.html" title="Le module de lecture depuis un fichier. Pour le moment, la lecture est restreinte aux fichiers ..." alt="" coords="329,107,414,133"/>
+<area shape="rect" id="node7" href="$class_sampler_module.html" title="Le séquenceur. Il récupère les fichiers audios des samples et gère le stream. Il gère l&#39;interface ave..." alt="" coords="315,157,427,184"/>
+</map>

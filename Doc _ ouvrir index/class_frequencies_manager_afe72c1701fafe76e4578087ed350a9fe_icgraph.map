@@ -1,0 +1,7 @@
+<map id="FrequenciesManager::getPianoFrequencies" name="FrequenciesManager::getPianoFrequencies">
+<area shape="rect" id="node2" href="$class_frequencies_manager.html#a65bff721e4a9718ddbdfbeaf72f78a29" title="Renvoie les fréquences successives encadrant les notes du piano. " alt="" coords="229,13,372,54"/>
+<area shape="rect" id="node5" href="$class_main_window.html#af5dae3eca52588814077ef9b8ae9c231" title="Slot permettat de gérer un appui sur une touche d&#39;un périphérique MIDI. " alt="" coords="205,79,396,105"/>
+<area shape="rect" id="node6" href="$class_piano.html#a1477e0fc9fca46d811cbb8a85e1a8527" title="Toggle permettant de passer du mode piano au mode image simple et inversement. " alt="" coords="235,129,367,156"/>
+<area shape="rect" id="node3" href="$class_frequencies_manager.html#ac58df02280a9c17dd159079c7dffd1cd" title="Renvoie le numéro de la touche de piano associée à la fréquence fournie en paramètre. " alt="" coords="444,5,639,61"/>
+<area shape="rect" id="node4" href="$class_spectrum_analyser.html#acf2098188acadd86a9e7872800eae20b" title="Fonction principale de l&#39;analyseur de spectre, à ne pas appeler directement (cf. documentation Qt des..." alt="" coords="687,20,841,47"/>
+</map>

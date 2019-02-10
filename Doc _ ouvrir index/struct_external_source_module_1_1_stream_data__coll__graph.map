@@ -1,0 +1,4 @@
+<map id="ExternalSourceModule::StreamData" name="ExternalSourceModule::StreamData">
+<area shape="rect" id="node2" href="$class_ring_buffer.html" title="Classe s&#39;occupant de stocker les trames audio au fur et à mesure qu&#39;elle arrivent. L&#39;objectif de cette classe est de fournir des temps d&#39;écriture acceptables, pour des lectures instantanées et sur une plage de mémoire contiguë. " alt="" coords="5,5,88,32"/>
+<area shape="rect" id="node3" href="$class_filter.html" title="Classe s&#39;occupant de filtre le signal audio dans la fonction inOut de l&#39;EngineModule actif Cette clas..." alt="" coords="113,5,164,32"/>
+</map>

@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_engine.html" title="Le moteur de l&#39;application, orchestre les différents EngineModule correspondant aux sources audio..." alt="" coords="136,5,199,32"/>
+<area shape="rect" id="node3" href="$class_midi_engine.html" title="La classe permettant de connecter un périphérique MIDI à l&#39;application. Cette classe est totalement c..." alt="" coords="124,56,211,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="SamplerModule::setStyle" name="SamplerModule::setStyle">
+<area shape="rect" id="node2" href="$class_file_module.html#a1ffbe741dd594ba0887908562a5c674b" title="Signale au module qu&#39;il doit se fermer et laisser totalement la main à un autre module. " alt="" coords="221,159,375,185"/>
+<area shape="rect" id="node3" href="$class_rt_audio.html#a471118c62add0eee90b298e8519bf80e" title="Returns true if the stream is running and false if it is stopped or not open. " alt="" coords="645,5,820,32"/>
+<area shape="rect" id="node4" href="$class_rt_audio.html#af4c241ff86936ecc8108f0d9dfe3efdd" title="Stop a stream, allowing any samples remaining in the output queue to be played. " alt="" coords="439,209,581,236"/>
+<area shape="rect" id="node5" href="$class_rt_audio.html#a9c191aa5401a60e5438291b117bbf8c4" title="Returns true if a stream is open and false if not. " alt="" coords="653,85,812,112"/>
+<area shape="rect" id="node6" href="$class_rt_audio.html#a90d599002ad32cf250a4cb866f2cc93a" title="A function that closes a stream and frees any associated stream memory. " alt="" coords="435,260,585,287"/>
+<area shape="rect" id="node7" href="$class_rt_audio.html#aec017a89629ccef66a90b60be22a2f80" title="A function that starts a stream. " alt="" coords="661,140,805,167"/>
+<area shape="rect" id="node8" href="$class_external_source_module.html#a7e6009c3ff867865db0050bccecc0896" title="Signale au module qu&#39;il a la main pour créer tous ses flux et commencer à jouer. " alt="" coords="433,93,587,134"/>
+<area shape="rect" id="node9" href="$class_rt_audio.html#a3a3f3dbe13ea696b521e49cdaaa357bc" title="A function that returns the index of the default output device. " alt="" coords="423,311,597,353"/>
+</map>

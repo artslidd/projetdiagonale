@@ -1,0 +1,4 @@
+<map id="RtAudio::abortStream" name="RtAudio::abortStream">
+<area shape="rect" id="node2" href="$class_rt_api.html#a991f6626a0b1a79f0fec1c6a7bcebb9e" title="Protected common error method to allow global control over error handling. " alt="" coords="233,5,321,32"/>
+<area shape="rect" id="node3" href="$class_external_source_module.html#a8c6dfe94ff1d831cf7d4c895e25bf51d" title="Signale au module qu&#39;il doit se fermer et laisser totalement la main à un autre module. " alt="" coords="200,57,353,98"/>
+</map>

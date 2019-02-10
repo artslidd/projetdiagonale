@@ -1,0 +1,7 @@
+<map id="MidiInDummy" name="MidiInDummy">
+<area shape="rect" id="node2" href="$class_midi_in_api.html" title="MidiInApi" alt="" coords="44,273,120,300"/>
+<area shape="rect" id="node3" href="$class_midi_api.html" title="MidiApi" alt="" coords="5,184,71,211"/>
+<area shape="rect" id="node4" href="$struct_midi_in_api_1_1_rt_midi_in_data.html" title="MidiInApi::RtMidiInData" alt="" coords="95,184,253,211"/>
+<area shape="rect" id="node5" href="$struct_midi_in_api_1_1_midi_queue.html" title="MidiInApi::MidiQueue" alt="" coords="206,95,353,121"/>
+<area shape="rect" id="node6" href="$struct_midi_in_api_1_1_midi_message.html" title="MidiInApi::MidiMessage" alt="" coords="93,5,255,32"/>
+</map>

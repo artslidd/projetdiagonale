@@ -1,0 +1,4 @@
+<map id="RtMidi::getCompiledApi" name="RtMidi::getCompiledApi">
+<area shape="rect" id="node2" href="$class_rt_midi_in.html#aeeaeed8dae387dffc70e73e6e88b4d1a" title="Default constructor that allows an optional api, client name and queue size. " alt="" coords="222,5,349,32"/>
+<area shape="rect" id="node3" href="$class_rt_midi_out.html#a2940966e36b5479fbbf82c07424318cc" title="Default constructor that allows an optional client name. " alt="" coords="212,56,359,83"/>
+</map>

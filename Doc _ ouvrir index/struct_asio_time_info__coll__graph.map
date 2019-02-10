@@ -1,0 +1,5 @@
+<map id="AsioTimeInfo" name="AsioTimeInfo">
+<area shape="rect" id="node2" href="$struct_a_s_i_o_time_stamp.html" title="ASIOTimeStamp" alt="" coords="5,5,127,32"/>
+<area shape="rect" id="node3" href="$struct_a_s_i_o_sample_rate.html" title="ASIOSampleRate" alt="" coords="151,5,277,32"/>
+<area shape="rect" id="node4" href="$struct_a_s_i_o_samples.html" title="ASIOSamples" alt="" coords="301,5,407,32"/>
+</map>
