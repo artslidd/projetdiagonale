@@ -1,12 +1,14 @@
 #include "filterwidget.h"
 
-#include <QtGlobal>
+#include <QtCharts/QtCharts>
 #include <QMouseEvent>
 #include <QPainter>
 #include <QColor>
 #include <QtMath>
 #include <QtCore>
 #include "../constants.h"
+
+using namespace QtCharts;
 
 FilterWidget::FilterWidget(QWidget * parent) : QWidget(parent), m_background(":/filter_background.png"), m_foreground(":/filter_foreground.png"), m_border(":/filter_border.png")
 {

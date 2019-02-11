@@ -1,6 +1,7 @@
 # QT
 QT += core
 QT += widgets
+QT += charts
 
 QMAKE_CXXFLAGS += -std=c++0x
 
