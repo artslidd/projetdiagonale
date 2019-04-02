@@ -70,7 +70,8 @@ SOURCES += \
     widgets/instrumentselector.cpp \
     widgets/chordselector.cpp \
     qtwidgets/loopcheckbox.cpp \
-    qtwidgets/timeslider.cpp
+    qtwidgets/timeslider.cpp \
+    tools/qcustomplot.cpp
 
 FORMS += \
     mainwindow.ui \
@@ -78,7 +79,8 @@ FORMS += \
     core/externalsourcemodule.ui \
     core/filemodule.ui \
     midi/mididialog.ui \
-    core/samplermodule.ui
+    core/samplermodule.ui \
+    core/equalizer.ui
 
 HEADERS += \
     widgets/mainwindow.h \
@@ -114,7 +116,8 @@ HEADERS += \
     widgets/instrumentselector.h \
     widgets/chordselector.h \
     qtwidgets/loopcheckbox.h \
-    qtwidgets/timeslider.h
+    qtwidgets/timeslider.h \
+    tools/qcustomplot.h
 
 RESOURCES += \
     images.qrc
